@@ -1,4 +1,4 @@
-// Header liberay file
+// #include <stdio.h> is a header file library that lets us work with input and output functions, such as printf() (used in line 4). Header files add functionality to C programs.
 
 #include<stdio.h>
 
